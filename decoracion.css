@@ -1,0 +1,33 @@
+body {
+    background-color: #f2f2f2; /* Cambia el color de fondo a gris claro */
+}
+h1, h2, h3 {
+    color: #333; /* Cambia el color del texto a gris oscuro */
+}
+h1, h2, h3, p {
+    margin: 10px; /* Agrega un margen de 10px alrededor de los elementos */
+    padding: 5px; /* Agrega un espaciado interno de 5px a los elementos */
+}
+h1 {
+    background-color: #333; /* Cambia el color de fondo del encabezado h1 */
+    color: #fff; /* Cambia el color del texto a blanco */
+}
+
+h2, h3 {
+    background-color: #555; /* Cambia el color de fondo de los encabezados h2 y h3 */
+    color: #fff; /* Cambia el color del texto a blanco */
+}
+.footer {
+    background-color: #333; /* Cambia el color de fondo del pie de página */
+    color: #fff; /* Cambia el color del texto a blanco */
+    text-align: center; /* Centra el texto en el pie de página */
+    padding: 10px; /* Agrega un espaciado interno de 10px al pie de página */
+}
+a {
+    color: #0078d4; /* Cambia el color de los enlaces a azul */
+    text-decoration: none; /* Quita la subrayado de los enlaces */
+}
+
+a:hover {
+    text-decoration: underline; /* Agrega subrayado al pasar el mouse por encima de los enlaces */
+}
